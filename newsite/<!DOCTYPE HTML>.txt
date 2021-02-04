@@ -1,0 +1,361 @@
+
+<!DOCTYPE HTML>
+<!--
+	Massively by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Generic Page - Massively by HTML5 UP</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header">
+						<a href="index.html" class="logo">Massively</a>
+					</header>
+
+				<!-- Nav -->
+					<nav id="nav">
+						<ul class="links">
+							<li><a href="index.html">This is Massively</a></li>
+							<li class="active"><a href="generic.html">Generic Page</a></li>
+							<li><a href="elements.html">Elements Reference</a></li>
+						</ul>
+						<ul class="icons">
+							<li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+							<li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+							<li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+							<li><a href="#" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+						</ul>
+					</nav>
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- Post -->
+							<section class="post">
+								<header class="major">
+									<span class="date">April 25, 2017</span>
+									<h1>This is a<br />
+									Generic Page</h1>
+									<p>Aenean ornare velit lacus varius enim ullamcorper proin aliquam<br />
+									facilisis ante sed etiam magna interdum congue. Lorem ipsum dolor<br />
+									amet nullam sed etiam veroeros.</p>
+								</header>
+								<div class="image main"><img src="images/pic01.jpg" alt="" /></div>
+								<p><h4><a href="https://www.esri.com/arcgis-blog/products/arcgis/3d-gis/gis-visualization-and-storytelling-in-3d/">GIS Visualization and Storytelling In 3D</a></h4>
+<p>3D</p>
+<blockquote>
+<p>一篇很长的文章，系统的介绍了ArcGIS的3d 可视化功能，包括光影的配置，粒子效应等。</p>
+</blockquote>
+<table><thead><tr></tr></thead><tbody><tr></tr></tbody></table>
+<hr />
+<h4><a href="https://mp.weixin.qq.com/s?__biz=MzU0NjYxODYxNQ==&amp;mid=2247491629&amp;idx=1&amp;sn=253c5a31d8e54f6632e9430cd3ad1bd0&amp;chksm=fb584db5cc2fc4a32d32812ad671b06baba5762d65a92bf42ee30f85afda18cd713727b4d7c7#rd">星夜遐想：漫天繁星下，你我都太渺小</a></h4>
+<p>漫天繁星</p>
+<blockquote>
+<p>里面有一个简短的非常漂亮的大场景摄影视频。</p>
+</blockquote>
+<table><thead><tr></tr></thead><tbody><tr></tr><tr></tr></tbody></table>
+<hr />
+<h4><a href="https://gdtspa.org.cn/news/detail/894">广东省国土空间规划协会 - 广东省自然资源厅关于公布2021年广东省自然资源行业专业技术人员继续教育专业科目学习指南的通知</a></h4>
+<p>根据《广东省专业技术人员继续教育证书的管理办法》（粤人社发〔2010〕321号）有关规定，2021年广东省自然资源行业专业技术人员继续教育专业科目学时应不少于7天或42学时（一天按6学时计算，一天不足6学时的，按学时计算）。</p>
+<p>专业科目学习可采用培训班、学术论坛、技术交流会、新理论讲座、远程教育等多种形式进行。<br />
+用人单位可按粤人社规〔2018〕11号要求，委托广东省土地学会、广东省测绘学会、广东省遥感与地理信息学会、广东省地质学会、广东省海洋学会等具有相应专业培训能力的机构开展，也可选择其他合法正规的远程教育平台进行网络学习。有条件的用人单位还可按《意见》规定自主组织开展培训。</p>
+<table><thead><tr></tr></thead><tbody><tr></tr></tbody></table>
+<hr />
+<h4>各大 APP 适老化大比拼</h4>
+<table><thead><tr></tr></thead><tbody><tr></tr><tr></tr></tbody></table><p>腾讯官方还推出了一款小程序「微信使用小助手」，目标人群就是老年人。在这个小程序中，微信的各种功能，比如「面对面扫二维码加朋友」、「调整微信的字体大小」等功能都以视频情景剧的形式展现，并且每个教程还有非常清晰的分步骤图片教程，建议如果家里有刚刚开始使用微信，或者使用微信还不熟练的家人，可以让他们收藏这个小程序方便随时观看。</p>
+<p>支付宝的「关怀版」一打开，好似回到了功能机时代，每一个图标都巨大无比，首页仅放置了老年人最常用的健康码、疫情播报、扫一扫、付款码、充话费和缴水电煤。</p>
+<p>不过现在还仅仅停留在了第一层，也就是信息展示的层面，点击按钮进入二级菜单后，所有的界面就又回到了标准版。</p>
+<p>比如现在也有很多人的父母喜欢理财买基金，但是目前的「关怀版」中并没有金融保险类的功能。</p>
+<p>滴滴好像最近发布了一个「滴滴关怀版」小程序，我试用了一下，觉得大家可以让自己的父母把这个小程序置顶。</p>
+<p>打开小程序之后看到字体非常大，整个页面只有两个按钮「一键叫车」和「电话叫车」，该小程序支持提前预设 10 个地点，比如「家」、「医院」、「儿子家」、「超市」等，这样在输入目的地时可以快捷选择。</p>
+<table><thead><tr></tr></thead><tbody><tr></tr></tbody></table>
+<hr />
+<h4><a href="https://developers.planet.com/integrations/">https://developers.planet.com/integrations/</a></h4>
+<table><thead><tr></tr></thead><tbody><tr></tr></tbody></table><p>Planet’s Developer Center</p>
+<blockquote>
+<p>待办<br />
+from the QGIS Plugins Repository and the ArcGIS Marketplace. </p>
+</blockquote>
+<blockquote>
+<p>这两个信息源要关注。</p>
+</blockquote>
+<table><thead><tr></tr></thead><tbody><tr></tr><tr></tr></tbody></table>
+<hr />
+<h4>Planet Releases ArcGIS Add-In &amp; QGIS Plugin V2.0</h4>
+<table><thead><tr></tr></thead><tbody><tr></tr><tr></tr></tbody></table><p>The ArcGIS Add-In &amp; QGIS Plugin V1.0 were released in December 2019</p>
+<p>Unlike your typical GIS basemap, Planet Basemaps can be updated on a regular cadence and viewed with multispectral data, like near-infrared for Planet’s Surface Reflectance (SR) Basemaps. </p>
+<p>In Planet’s ArcGIS Add-In &amp; QGIS Plugin 2.0 users with a Basemaps subscription can visualize their basemaps as a time-series and, for SR Basemaps, view them in false color using one of six visualization indices, like color infrared. Users can also now bulk download Basemap quads for a single Basemap or across a time-series using the Planet Basemaps Panel. </p>
+<p>Task for High-Resolution Imagery within your GIS workflows</p>
+<table><thead><tr></tr></thead><tbody><tr></tr></tbody></table>
+<hr />
+<h4><a href="https://sspai.com/post/64852">如何做一次彻底的小户型老房装修改造 - 少数派</a></h4>
+<p>8 月与租户的合约到期，设计师量房、出方案，装修队进场，一直到 11 月正式完工，12 月家具电器安装、放味，1 月入住。</p>
+<blockquote>
+<p>从装修到入住一共五个月的时间。</p>
+</blockquote>
+<p>北京市区 90 年代老房，建筑面积约 60 平的两室一厅小户型，拆除到毛坯房后彻底重装。从一开始就没考虑装修公司，找的独立设计师，用的是设计师合作的施工队。</p>
+<blockquote>
+<p>这样的思路可以参考，</p>
+</blockquote>
+<p>几个对我最有帮助的 live 课程：</p>
+<blockquote>
+<p>放在装修那，里面内容总结的非常的丰富。</p>
+</blockquote>
+<table><thead><tr></tr></thead><tbody><tr></tr><tr></tr></tbody></table>
+<hr />
+<h4>深圳市深汕特别合作区国土空间规划研究中心专业人才招聘公告</h4>
+<table><thead><tr></tr></thead><tbody><tr></tr></tbody></table><p>4、土地管理主管（1）<br />
+5、土地管理主管（2）</p>
+<blockquote>
+<p>这两个明确要求是我本科的专业。</p>
+</blockquote>
+<table><thead><tr></tr></thead><tbody><tr></tr><tr></tr></tbody></table><p>一经录用，作为深圳市深汕特别合作区事业单位职工，享受深汕特别合作区相关购房、公共住房等优惠政策。</p>
+<p>购房</p>
+<blockquote>
+<p>这个有意思</p>
+</blockquote>
+<table><thead><tr></tr></thead><tbody><tr></tr></tbody></table><p>深圳市深汕特别合作区国土空间规划研究中心（以下简称“规划研究中心”）位于深圳市第“10+1”区——深汕特别合作区，是由深圳市深汕特别合作区管理委员会举办，经深汕特别合作区党工委机构编制委员会批准设立，由深圳市规划和自然资源局深汕管理局代管的公益二类事业单位。</p>
+<p>深圳市深汕特别合作区国土空间规划研究中心</p>
+<blockquote>
+<p>待办，将他的相关网站和微信公众号关注起来。</p>
+</blockquote>
+<table><thead><tr></tr></thead><tbody><tr></tr><tr></tr></tbody></table>
+<hr />
+<h4>30张震撼卫星/航空摄影，看全球30座城市的建造肌理</h4>
+<table><thead><tr></tr></thead><tbody><tr></tr><tr></tr></tbody></table><p>Overview是一个使用卫星和航空图像来展示人类活动和自然力量如何塑造地球的平台。创始人本杰明·格兰特（Benjamin Grant）希望鸟瞰作为一个强有力的视角，可以使人们重新审视赖以生存的星球，以及正在创造的文明。</p>
+<table><thead><tr></tr></thead><tbody><tr></tr></tbody></table><p>Overview通过与欧洲航天局、美国航空航天局，以及Nearmap、 Maxar、环球星云、空客等公司合作，逐渐搭建起一个内容丰富的卫星和航空图像数据库。这些图像通常附有一段简介，方便读者了解图像主体（城市或自然）的背景。</p>
+<table><thead><tr></tr></thead><tbody><tr></tr><tr></tr><tr></tr></tbody></table>
+<hr />
+<h4>小众却强大的 App: Taio 与 Picsew</h4>
+<table><thead><tr></tr></thead><tbody><tr></tr></tbody></table><p>而「文本动作」其实也是 Taio 的第三个组成部分，它类似于 iOS/iPadOS 中的「快捷指令」</p>
+<blockquote>
+<p>这里提到的两个软件都是免费的，感觉功能还挺丰富的，我后续研究一下。</p>
+</blockquote>
+<table><thead><tr></tr></thead><tbody><tr></tr><tr></tr></tbody></table>
+<hr />
+<h4>Introducing ArcGIS Platform</h4>
+<table><thead><tr></tr></thead><tbody><tr></tr></tbody></table><p>We are very excited to announce our new product called ArcGIS Platform. ArcGIS Platform is a location-focused platform-as-a-service (PaaS) for when you need to integrate location capabilities into your apps, business systems, and products. ArcGIS Platform provides access to Esri’s powerful location services using your APIs of choice—including open-source APIs. It also allows you to create apps using ArcGIS APIs, SDKs, and app builders.  </p>
+<blockquote>
+<p>应该是ArcGIS 推出的另一个重量级产品。</p>
+</blockquote>
+<table><thead><tr></tr></thead><tbody><tr></tr><tr></tr></tbody></table>
+<hr />
+<h4>94年美女博士升湖南大学副教授，在Nature等期刊发论文10余篇</h4>
+<table><thead><tr></tr></thead><tbody><tr></tr><tr></tr></tbody></table><p>李晟曼此前于2020年7月入职湖南大学材料科学与工程学院副教授。</p>
+<p>官方简历显示，她2015年毕业于华中科技大学光学与电子信息学院获工学学士学位，2020年6月毕业被授予工学博士学位。</p>
+<p>在Nature Materials、Nature Nanotechnology、Advanced Electronic Materials等期刊发表SCI论文10余篇。</p>
+<table><thead><tr></tr></thead><tbody><tr></tr></tbody></table>
+<hr />
+<h4><a href="https://www.dgtle.com/article-1641113-1.html">最没有参考价值的家居分享🐶 | 数字尾巴 分享美好数字生活</a></h4>
+<p>东北二线末尾省会城市 </p>
+<blockquote>
+<p>待办。</p>
+</blockquote>
+<p>很多东西没有追求品质，有些贪图便宜了，没有档次</p>
+<blockquote>
+<p>是的，颜色比较素，可以作为我的底线参考，他的花费就要超过十万了。可以从中借鉴实在的东西。</p>
+</blockquote>
+<table><thead><tr></tr></thead><tbody><tr></tr><tr></tr></tbody></table>
+<hr />
+<h4>Podcast Ads - 播客生存模式探索（下）</h4>
+<table><thead><tr></tr></thead><tbody><tr></tr></tbody></table><p>从内容到广告，帮你找到做播客的另一种未来。</p>
+<blockquote>
+<p>总结的非常的好，关于播客商业化的各种思路总结。</p>
+</blockquote>
+<table><thead><tr></tr></thead><tbody><tr></tr><tr></tr></tbody></table>
+<hr />
+<h4>1月18日，随着最后一次爆破结束，国内最大跨度“燕尾式”出岔高铁隧道赣深高铁羊台山隧道顺利贯通</h4>
+<table><thead><tr></tr></thead><tbody><tr></tr><tr></tr></tbody></table><p>这标志着我国“八纵八横”高速铁路网重要组成部分的赣深高铁将全面进入铺轨阶段。</p>
+<table><thead><tr></tr></thead><tbody><tr></tr></tbody></table>
+<hr />
+<h4>中共深圳市委六届十八次全会1月21日胜利召开</h4>
+<table><thead><tr></tr></thead><tbody><tr></tr></tbody></table><p>记者从深圳市规划和自然资源局获悉，由该局牵头，集全市之力，高质量编制的《深圳市国土空间总体规划（2020-2035年）》已形成初步成果，后续将开展面向公众的公示及报批等工作</p>
+<blockquote>
+<p>我后续可以看一下这个报告</p>
+</blockquote>
+<p>按照国土空间规划体系改革要求，深圳构建了“两级三类”国土空间规划体系，首次在统一目标、统一标准、统一时点的任务要求下同频共振编制市、区两级国土空间总体规划</p>
+<blockquote>
+<p>两极蛋类</p>
+</blockquote>
+<table><thead><tr></tr></thead><tbody><tr></tr><tr></tr></tbody></table>
+<hr />
+<h4><a href="https://www.appinn.com/next-terminal/">Next Terminal - 用浏览器访问远程桌面，支持 RDP、SSH、VNC 和 Telnet - 小众软件</a></h4>
+<p>Next Terminal 是一款开源的网页版远程桌面工具，支持连接 RDP、SSH、VNC 和 Telnet 协议，部署后，就可以在任何一个浏览器中，远程控制你的 Windows、macOS，以及 Linux 系统了，支持多用户授权、二次验证登录、操作记录回放等功能</p>
+<p>提供了一个在线 DEMO，即开即用：<a href="https://next-terminal.typesafe.cn/">https://next-terminal.typesafe.cn/</a> （用户名/密码 test/test），打开后就能看到后台了：</p>
+<table><thead><tr></tr></thead><tbody><tr></tr><tr></tr><tr></tr></tbody></table>
+<hr />
+<h4>近日，深圳市勘察设计行业协会公布了深圳市第十九届优秀工程勘察设计奖获奖名单，我院工程院2020年申报的四个评优工程项目，全部获得第十九届深圳市优秀工程勘察设计二等奖。项目名单如下：</h4>
+<table><thead><tr></tr></thead><tbody><tr></tr></tbody></table><p>我院</p>
+<blockquote>
+<p>我院指深规院。</p>
+</blockquote>
+<table><thead><tr></tr></thead><tbody><tr></tr></tbody></table><p>1.《深圳市城市轨道交通7号线工程（部分交通疏解与管线牵改）》</p>
+<p>2.《前海铲湾路市政工程》</p>
+<p>3.《深圳市城市轨道交通9号线工程（部分管线牵改）》</p>
+<p>4.《龙华部九窝余泥渣土受纳场二期工程》</p>
+<table><thead><tr></tr></thead><tbody><tr></tr></tbody></table>
+<hr />
+<h4>3 Spatial Data Science Trends to Watch in 2021</h4>
+<p>CARTOJan 22, 2021</p>
+<p>Cloud Native Spatial Analysis</p>
+<p>Next Gen Data Warehouses</p>
+<p>Next generation data warehouses, such as BigQuery, Snowflake, Redshift, and Azure Synapse Analytics, provide processing power that can be leverage through SQL or Python notebooks which have three key characteristics that make the game changers from previous generations:</p>
+<blockquote>
+<p>这里提到的数据库我竟然都没有用到过。</p>
+</blockquote>
+<p>In recent times major next generation data warehouses have added spatial support to their products</p>
+<blockquote>
+<p>我要跟踪一下都有那些变化，都提供了哪些功能。</p>
+</blockquote>
+<table><thead><tr></tr></thead><tbody><tr></tr></tbody></table><p>About the author</p>
+<p>Javier de la Torre is founder and Chief Strategy Officer of CARTO. One of the pioneers of location intelligence</p>
+<p>In 2007, he founded Vizzuality, a renowned geospatial company dedicated to bridging the gap between science and policy making by the better use of data.</p>
+<blockquote>
+<p>有意思，这些创始人的故事我后续都可以继续深入研究一下。</p>
+</blockquote>
+<p>At last year’s Spatial Data Science Conference, Dr. Chad W. Jennings, GIS Product Lead at Google Cloud gave more details about the geospatial support within BigQuery.</p>
+<blockquote>
+<p>最近也经常看到这个 big query 数据库。</p>
+</blockquote>
+<table><thead><tr></tr></thead><tbody><tr></tr><tr></tr></tbody></table>
+<hr />
+<h4>杂谈|我在国土局根本用不到GIS</h4>
+<p>小猿猴GISer<br />
+干国土业务已经一整年了</p>
+<p>说了这么多，我是后悔了吗，其实并没有，在没考上国土部门之前，我甚至打算去考个地理教师资格证，以后改行做教师得了。在我心里，体制内就是最重要的。虽然之前老师希望我们去互联网公司，然而这些天来的加班猝死新闻证明我没错。不过已经是事业编制的小伙伴，都还有个成为公务员的梦想，哈哈，我还专门写了《事业单位的人为何沉迷考公务员？》可惜我看行测好难啊，单纯的常识难不倒我</p>
+<blockquote>
+<p>这就是小猿猴的工作状态，原来是国土局的一个事业单位的工作人员。</p>
+</blockquote>
+
+<hr />
+<h4>随2020年国土空间规划推进后，2021年预计会全国大范围开始，市场对国土空间规划的人才是大范围的需求</h4>
+<table><thead><tr></tr></thead><tbody><tr></tr></tbody></table><p>对能把控国土空间规划实际项目的负责人是各大院急需人才（从我们了解到的，实际能参与国土空间规划的人少，更不说全流程参与的）。</p>
+<blockquote>
+<p>最后的估计说得很好。</p>
+</blockquote>
+<table><thead><tr></tr></thead><tbody><tr></tr></tbody></table><p>以下为四川省事业单位考核入编要求：</p>
+<p>2．具备以下条件者优先：</p>
+<p>（1）具有担任县级及以上城市总体规划（含多规合一规划、城乡统筹规划）项目负责人或主办人工作经历；</p>
+<p>（2）具有担任县级及以上国土空间总体规划项目负责人工作经历；</p>
+<p>（3）具有担任省级国土空间规划领域相关课题项目负责人工作经历。</p>
+<p>（4）获得国家级城乡规划设计奖或省级勘察设计奖。 </p>
+<p>应大家要求，全流程完成项目的人目前不多，为帮助大家实际了解国土空间规划全国的编制内容和实际操作，经纬注考团队结合这几年的实际工作，讲解《国土空间规划全流程编制及技术交流》讲座</p>
+<p>课程按编制流程分为7部分，分别是</p>
+<blockquote>
+<p>看了一下课程构成，前面的宏观层面，战略层面没有实际的项目经验很难有深入的体会，后面更多的变成了空间的操作和学习，越来越像一些大数据培训班的课程啊，没有太多的新意。</p>
+</blockquote>
+<table><thead><tr></tr></thead><tbody><tr></tr><tr></tr></tbody></table>
+<hr />
+<h4>会计从业资格，乡村兽医资格，出入境检疫处理人员资格，注册测绘师，勘察设计注册石油天然气工程师、注册冶金工程师、注册采矿/矿物工程师、注册机械工程师调出《国家职业资格目录》。</h4>
+<table><thead><tr></tr></thead><tbody><tr></tr><tr></tr></tbody></table><p>注意，不是取消，而是退出资格目录，也就是说没有准入门槛了，只有你有能力（或者觉得自己够这个能力），人人都可以从事这个职业，那么那些考了证的同学，或者说的是以挂靠而考证的同学，损失就大了。</p>
+<p>软件资格最早实现了取消准入，实现以考代评，才带来了我国软件业的大发展，注册测绘师取消准入，不代表它的倒退，代表的是新生。</p>
+<table><thead><tr></tr></thead><tbody><tr></tr></tbody></table>
+<hr />
+<h4><a href="https://mp.weixin.qq.com/s?__biz=Mzg4ODEyNzMwNA==&amp;mid=2247487002&amp;idx=1&amp;sn=4b3058c3134077ae1b5acbafad7bb297&amp;chksm=cffea43df8892d2bb65d6f7dbd5f7854ee43b431bdaea772a3e03bcb4a66dc353aa0048ef9db#rd">Google Earth创始人离世......</a></h4>
+<p>谷歌地球创始人Michael Jones 于 1月 18日离世……</p>
+<blockquote>
+<p>这篇文章对于谷歌地球的发展总结的非常的全面。</p>
+</blockquote>
+<table><thead><tr></tr></thead><tbody><tr></tr></tbody></table><p>Jones经常会用“一切都是偶然”来形容他为什么会创造出谷歌地球。早些时候，他还在一家叫做Silicon Graphics (SGI)的公司工作，在工作期间他发明了一种叫“Clip Mapping”的技术，并且这项技术彻底改变了SGI的3D图形产品。很快，Jones就看到了这个发明背后的潜力，然后他们就成立了一个名为Intrinsic Graphics新公司，这个公司主要就是为个人电脑和视频游戏开发高质量的3D图形。</p>
+<p>在1999年10月份，Internal Graphics后基于“Clip Mapping”这个理念开发了一个可以让用户在地球的3D可视化场景中进行漫游飞行的软件，他们整个团队对此感到很兴奋。</p>
+<p>因此团队想对它进行商业化，因此在2000年，他们将这部分打包成Keyhole从Internal Graphics中剥离出来</p>
+<p>后面Keyhole发布了第一款产品 EarthViewer1.0，可以说这个产品才是Google Earth真正的前身。它利用Landsat和 IKONOS的公开数据，以及美国主要城市的航拍照片，构建了一个完整的数字地球。</p>
+<p>2003年，In-Q-Tel利用NGA的前身国家图像和地图局的资金投资Keyhole。美国入侵伊拉克，CNN成为Keyhole的首批媒体客户之一。</p>
+<blockquote>
+<p>这个投资之前有了解过。</p>
+</blockquote>
+<table><thead><tr></tr></thead><tbody><tr></tr></tbody></table><p>全面的商业化成为当时Keyhole的一个关键使命，但是资金问题已然是一个主要障碍</p>
+<p>于是团队在2004年收到谷歌的收购邀约时就同意将项目出售</p>
+<p>为此Jones和他的团队也加入了谷歌。</p>
+<p>2005年，Google Earth正式发布，不久之后在卡特里娜飓风应急工作中发挥了关键作用。</p>
+<p>2006年，Google Earth企业版（GEE）是为寻求Google Earth功能但在安全的离线环境中使用私有数据的组织而推出的；</p>
+<p>2017年，他加入了领先的增强现实公司Niantic，该公司曾经开发了大名鼎鼎的Pokemon Go。</p>
+<p>2020年6月，英国皇家地理学会授予Jones2020年赞助人奖章（Patron’s Medal），表彰他在地理空间信息发展方面的贡献。该奖章是世界上同类荣誉奖章中认可度最高的。该奖章自19世纪30年代设立以来，许多社会知名人士与地理学专家获得了该奖章，如David Attenborough爵士、Diana Liverman教授和Lindsey Hilsum教授等曾获此殊荣。</p>
+<blockquote>
+<p>这些人物后续可以继续了解一下。</p>
+</blockquote>
+<table><thead><tr></tr></thead><tbody><tr></tr><tr></tr></tbody></table><p>----笔记备忘录</p>
+</p><p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Curabitur sapien risus, commodo eget turpis at, elementum convallis enim turpis, lorem ipsum dolor sit amet nullam.</p>
+								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus. Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum.</p>
+							</section>
+
+					</div>
+
+				<!-- Footer -->
+					<footer id="footer">
+						<section>
+							<form method="post" action="#">
+								<div class="fields">
+									<div class="field">
+										<label for="name">Name</label>
+										<input type="text" name="name" id="name" />
+									</div>
+									<div class="field">
+										<label for="email">Email</label>
+										<input type="text" name="email" id="email" />
+									</div>
+									<div class="field">
+										<label for="message">Message</label>
+										<textarea name="message" id="message" rows="3"></textarea>
+									</div>
+								</div>
+								<ul class="actions">
+									<li><input type="submit" value="Send Message" /></li>
+								</ul>
+							</form>
+						</section>
+						<section class="split contact">
+							<section class="alt">
+								<h3>Address</h3>
+								<p>1234 Somewhere Road #87257<br />
+								Nashville, TN 00000-0000</p>
+							</section>
+							<section>
+								<h3>Phone</h3>
+								<p><a href="#">(000) 000-0000</a></p>
+							</section>
+							<section>
+								<h3>Email</h3>
+								<p><a href="#">info@untitled.tld</a></p>
+							</section>
+							<section>
+								<h3>Social</h3>
+								<ul class="icons alt">
+									<li><a href="#" class="icon brands alt fa-twitter"><span class="label">Twitter</span></a></li>
+									<li><a href="#" class="icon brands alt fa-facebook-f"><span class="label">Facebook</span></a></li>
+									<li><a href="#" class="icon brands alt fa-instagram"><span class="label">Instagram</span></a></li>
+									<li><a href="#" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
+								</ul>
+							</section>
+						</section>
+					</footer>
+
+				<!-- Copyright -->
+					<div id="copyright">
+						<ul><li>&copy; Untitled</li><li>Design: <a href="https://html5up.net">HTML5 UP</a></li></ul>
+					</div>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
