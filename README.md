@@ -1,5 +1,6 @@
 # 2020.2
 ****
+### [easy geojson](public_R.json)
 ### [Geojson test](HongKongBuilding3D.json)
 ### [笔记摘抄 2.4](笔记摘抄 2.4.md)
 ### [笔记管理的自主与自动化探索：现有工具的吐槽与理想软件的期望](笔记管理的自主与自动化探索_现有工具的吐槽与理想软件的期望.md)
