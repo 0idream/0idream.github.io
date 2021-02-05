@@ -1,7 +1,6 @@
 function myFunction() {
 	$.get('./assets/article/archive.json', function (res) {
 		res.data.forEach(element => {
-			console.log(element)
 			$("#post").append(`<article>
 					<header>
 						<span class="date">`+ element.date + `</span>
