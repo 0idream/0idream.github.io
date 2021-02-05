@@ -1,0 +1,175 @@
+<!DOCTYPE HTML>
+<!--
+	Massively by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+
+<head>
+  <title>快捷指令分享</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+  <link rel="stylesheet" href="../css/main.css" />
+  <noscript>
+    <link rel="stylesheet" href="../css/noscript.css" />
+  </noscript>
+</head>
+
+<body class="is-preload">
+
+  <!-- Wrapper -->
+  <div id="wrapper">
+
+    <!-- Header -->
+    <header id="header">
+      <a href="../../index.html" class="logo">Shao Shuo</a>
+    </header>
+
+    <!-- Nav -->
+    <nav id="nav">
+      <ul class="links">
+        <li><a href="../../index.html">HOME</a></li>
+        <li><a href="../../about.html">ABOUT</a></li>
+        <!-- <li><a href="elements.html">Elements Reference</a></li> -->
+      </ul>
+      <ul class="icons">
+        <!-- <li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+							<li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li> -->
+        <li><a href="..\..\assets\img\IMG_2007.JPG" class="icon brands fa-weixin"><span class="label">Wechat</span></a>
+        </li>
+        <li><a href="https://github.com/0idream" class="icon brands fa-github"><span class="label">GitHub</span></a>
+        </li>
+      </ul>
+    </nav>
+
+    <!-- Main -->
+    <div id="main">
+
+      <!-- Post -->
+      <section class="post">
+        <header class="major">
+          <span class="date" id='date'>2021/2/5 上午11:46</span>
+          <h1 id='article_title'>快捷指令分享</h1>
+          <p>自动生成每日问候贺卡</p>
+        </header>
+        <div class="image main"><img src="https://picsum.photos/1200" alt="" /></div>
+        <p><p>快捷指令分享：自动生成每日问候贺卡</p>
+
+<hr />
+<h4>参考资料</h4>
+<h6><a href="https://placid.app/">https://placid.app/</a></h6>
+<p>收费的</p>
+<h6><a href="https://app.bannerbear.com/account">https://app.bannerbear.com/account</a></h6>
+<p>收费的，很好看，我可以以此为案例，参考</p>
+<h6><a href="https://htmlcsstoimage.com/pricing">https://htmlcsstoimage.com/pricing</a></h6>
+<p>每个月 50 条，免费的，可以基于 htm/css 生成图片</p>
+<p>User ID: </p>
+<ul>
+<li>8db85d9b-294c-43aa-93a7-d8057184d700</li>
+</ul>
+<p>API Key: </p>
+<ul>
+<li>cd1d767c-ebfc-478c-afdd-670a695c1279</li>
+</ul>
+<p>很有用，但是在 template 部分我折腾很久，不行，帮助文件不够完整。看来我需要寻找新的方案。</p>
+<ul>
+<li>其实主要的原因是 JSON.parse(data) 出现问题，导致我始终看不到我创建的 template 的 id 长什么样，我通过 .toString('utf8') 方法来实现了，具体的细节我暂且不关注那么多</li>
+</ul>
+<p>template id</p>
+<ul>
+<li>t-036df7ce-1459-4502-b677-517b3bc248eb
+<ul>
+<li>t-036df7ce-1459-4502-b677-517b3bc248eb</li>
+</ul>
+</li>
+<li><p>t-036df7ce-1459-4502-b677-517b3bc248eb</p>
+</li>
+</ul>
+<p>注意</p>
+<ul>
+<li>参数处不要有冒号，比如：<a href="https://hcti.io/v1/template/:template_id">https://hcti.io/v1/template/:template_id</a>，其实是 <a href="https://hcti.io/v1/template/template_id">https://hcti.io/v1/template/template_id</a></li>
+</ul>
+<p>又卡住了，基于 template 创作 image 的参数不知道如何写，总是报错，我已经发邮件咨询了</p>
+<ul>
+<li><p>"error":"Bad Request","statusCode":400,"message":"Template values are required when creating a templated image."</p>
+<ul>
+<li><p>回复的答案如下：</p>
+</li>
+<li><p>const data = { template_values: { name: 'value' }.toString('utf8') }</p>
+</li>
+</ul>
+</li>
+</ul>
+<h6><a href="https://ritekit.com/api-demo/create-quote-image">https://ritekit.com/api-demo/create-quote-image</a></h6>
+<p>每个月100条，但是不支持设置背景图片</p>
+<h6><a href="https://unsplash.com/developers">https://unsplash.com/developers</a></h6>
+<p>可以，提供的功能很丰富，使用起来门槛稍高，不过我目前我还不需要这么丰富的功能，暂且不用，请求随即图片的api如下</p>
+<ul>
+<li><a href="https://api.unsplash.com/photos/random/?client_id=KfYhUU_bZEdmlfgqV45g-4aR4INmpaHmCIID362nzrE">https://api.unsplash.com/photos/random/?client_id=KfYhUU_bZEdmlfgqV45g-4aR4INmpaHmCIID362nzrE</a></li>
+</ul>
+
+<hr />
+<h4>序言</h4>
+<h6>每日问候到处可见，尤其是对于关键的人来说，就更为重要。如何提升每日问候的丰富性，同时避免因遗忘造成的误会，该快捷指令给出了答案。</h6>
+
+<hr />
+<h4>每日图片 API</h4>
+<h6><a href="https://picsum.photos/1200">https://picsum.photos/1200</a></h6>
+
+<hr />
+<h4>每日一句 API</h4>
+<h6>金山词霸</h6>
+<p><a href="https://github.com/6fedcom/fe-hexo-blog/issues/54">https://github.com/6fedcom/fe-hexo-blog/issues/54</a></p>
+<h6>扇贝</h6>
+<p>v3</p>
+<ul>
+<li><a href="https://apiv3.shanbay.com/weapps/dailyquote/quote/">https://apiv3.shanbay.com/weapps/dailyquote/quote/</a></li>
+</ul>
+<p>v2</p>
+<ul>
+<li><a href="https://rest.shanbay.com/api/v2/quote/quotes/today/">https://rest.shanbay.com/api/v2/quote/quotes/today/</a></li>
+</ul>
+
+<hr />
+<h4>每日问候模板</h4>
+<p>"<h4>妹妹，早上好，我到公司了，送你美句如下：</h4><br />
+<div style="border-style:solid;border-width:1px;border-color:#ddd;width:500px;margin:auto;padding:5px;box-shadow: 1px 1px 10px #888888;"><br />
+<img src="https://picsum.photos/1200" alt="Trulli" style="width:500px;border-bottom-style:solid;border-color:green;border-width:2px;" ><br />
+&lt;p  style="font-family:STKaiti>2020年7月24日</p><br />
+<p style="font-family:Times;font-size:24px;">HTML ImageHTML ImageHTML ImageHTML ImageHTML ImageHTML ImageHTML ImageHTML Image</p><br />
+<p style="color:#ddd;font-family:STKaiti">HTML ImageHTML ImageHTML ImageHTML ImageHTML ImageHTML ImageHTML Image</p><br />
+</br><br />
+<img src="https://picsum.photos/1200" alt="Trulli" style="height:30px;width:30px;border-radius:35px;border-style:solid;border-color:green;border-width:1px;" ><span style="padding:5px;color:#cccd; font-family:STKaiti">每日问候</span><br />
+<p style="float:right;font-family:STXingkai">老安</p><br />
+</div><br />
+</br>"<br />
+****</p>
+<h4>可选触发条件</h4>
+<h6>链接到公司 WIFI</h6>
+<h6>接触到 NFC 工卡</h6>
+<h6>到达公司附近</h6>
+
+<hr />
+<h4>总结</h4>
+<h6>基于每日一句 API 与随机美图 API 结合 IOS 快捷指令，开发基于位置与 WIFI 连接等触发条件的每日问候邮件自动发送功能，在提升生活效率的同时，完成了问候内容在丰富性与时效性上的双重升华，实现了传统问候的数位化转型。</h6>
+<h6>此项工作是探索生活、学习和工作至简至美方法论的又一次内容实践，可以以此为基础，进一步开发后续诸如出地铁站自动告知、预计到家时间告知等家庭成员间高频沟通内容的逐步自动化，也可结合智能家居、智慧出行等行业解决方法，探索出更丰富、更综合的应用场景，从而实现生活、学习和工作品质的全面提升迭代。</h6>
+</p>
+      </section>
+
+    </div>
+
+  </div>
+
+  <!-- Scripts -->
+  <script src="../js/jquery.min.js"></script>
+  <script src="../js/jquery.scrollex.min.js"></script>
+  <script src="../js/jquery.scrolly.min.js"></script>
+  <script src="../js/browser.min.js"></script>
+  <script src="../js/breakpoints.min.js"></script>
+  <script src="../js/util.js"></script>
+  <script src="../js/main.js"></script>
+
+</body>
+
+</html>
